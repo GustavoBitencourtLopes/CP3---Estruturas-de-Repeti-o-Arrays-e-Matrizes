@@ -37,3 +37,4 @@ for i in range(len(temperaturas)):
 sala, risco = sala_maior_risco(temperaturas)
 print(f'A sala com maior risco é a Sala {sala}')
 print(f'Quantidade de registros críticos: {risco}')
+#
